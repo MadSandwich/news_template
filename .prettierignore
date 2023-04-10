@@ -1,0 +1,5 @@
+# Next.js build output
+.next
+
+# Package-lock.json
+package-lock.json
