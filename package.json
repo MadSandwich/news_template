@@ -1,0 +1,36 @@
+{
+  "name": "news_template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint && prettier --check .",
+    "prettier": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadSandwich/news_template.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadSandwich/news_template/issues"
+  },
+  "homepage": "https://github.com/MadSandwich/news_template#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-next": "^13.3.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.7"
+  },
+  "dependencies": {
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
