@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "slug": "news-1",
+      "detail": "testnews1"
+    },
+    {
+      "id": 2,
+      "slug": "news-2",
+      "detail": "testnews2"
+    },
+    {
+      "id": 1,
+      "slug": "news-3",
+      "detail": "testnews3"
+    }
+  ]
+}
